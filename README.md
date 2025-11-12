@@ -1,4 +1,4 @@
-# 💱 Currency Converter – Java API Exchange Rate App
+# Currency Converter – Java API Exchange Rate App
 
 Esta aplicación en **Java** permite obtener el tipo de cambio entre dos monedas en tiempo real utilizando una **API pública de tasas de cambio**.  
 El usuario elige una opción para convertir una moneda a otra, después selecciona el monto a convertir y la aplicación muestra el valor convertido de acuerdo con el último tipo de cambio.
